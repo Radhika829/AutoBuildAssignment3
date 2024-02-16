@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\bin\Debug\net6.0\AutoBulidAssignment3.exe
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\bin\Debug\net6.0\AutoBulidAssignment3.deps.json
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\bin\Debug\net6.0\AutoBulidAssignment3.runtimeconfig.json
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\bin\Debug\net6.0\AutoBulidAssignment3.dll
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\bin\Debug\net6.0\AutoBulidAssignment3.pdb
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\AutoBulidAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\AutoBulidAssignment3.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\AutoBulidAssignment3.AssemblyInfo.cs
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\AutoBulidAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\AutoBulidAssignment3.dll
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\refint\AutoBulidAssignment3.dll
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\AutoBulidAssignment3.pdb
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\AutoBulidAssignment3.genruntimeconfig.cache
+C:\Users\HP\Documents\Phase4\AutoBulidAssignment3\AutoBulidAssignment3\obj\Debug\net6.0\ref\AutoBulidAssignment3.dll
