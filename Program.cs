@@ -4,10 +4,10 @@ using AutoBulidAssignment3;
 SortedList<int, Product> productList = new SortedList<int, Product>();
 productList.Add(3, new Product { PId = 3, PName = "Chocs", PBrand = "DairyMilk", ManufacturingDate = DateTime.Now,
     ExpiryDate = DateTime.Now.AddMonths(6) });
-//productList.Add(1, new Product { PId = 1, PName = "Biscuits", PBrand = "ParleG", ManufacturingDate = DateTime.Now,
-//ExpiryDate = DateTime.Now.AddMonths(12) });
-//productList.Add(2, new Product { PId = 2, PName = "Shampoo", PBrand = "sunsilk", ManufacturingDate = DateTime.Now,
-//ExpiryDate = DateTime.Now.AddMonths(9) });
+productList.Add(1, new Product { PId = 1, PName = "Biscuits", PBrand = "ParleG", ManufacturingDate = DateTime.Now,
+ExpiryDate = DateTime.Now.AddMonths(12) });
+productList.Add(2, new Product { PId = 2, PName = "Shampoo", PBrand = "sunsilk", ManufacturingDate = DateTime.Now,
+ExpiryDate = DateTime.Now.AddMonths(9) });
 //productList.Add(3, new Product { PId = 3, PName = "Chocs", PBrand = "DairyMilk", ManufacturingDate = DateTime.Now,
 //ExpiryDate = DateTime.Now.AddMonths(6) });
 // Displaying the sorted list
